@@ -14,7 +14,9 @@ Examples of the output we’d like:
 
 Input	Expected Output
 00:00	midnight
+
 00:12	twelve twelve am
+
 01:00	one o’clock am
 06:01	six oh one am
 06:10	six ten am
